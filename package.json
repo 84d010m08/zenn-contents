@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/84d010m08/zenn-contents#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.98"
+    "zenn-cli": "^0.1.100"
   }
 }
